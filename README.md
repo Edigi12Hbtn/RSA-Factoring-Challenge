@@ -20,7 +20,7 @@ Factorize as many numbers as possible into a product of two smaller numbers.
 -   Time limit: Your program will be killed after 5 seconds if it hasn't finish
 -   Push all your scripts, source code, etc... to your repository
     -   we will only run your executable`factors`
-\
+
 #### 1\. RSA Factoring Challenge#advanced
 
 RSA Laboratories states that: for each RSA number`n`, there exist prime numbers`p`and`q`such that
